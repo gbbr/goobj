@@ -3,6 +3,8 @@
 Allows you to view the contents of `.o` files in a more user-friendly way. Inspired by [Sergey Matyukevich's](https://github.com/s-matyukevich)
 article [Golang Internals](https://blog.altoros.com/golang-internals-part-3-the-linker-and-object-files.html).
 
+`goobj` and `objabi` packages copied from `go/src/cmd/internal`
+
 ### Usage
 
 ```bash
